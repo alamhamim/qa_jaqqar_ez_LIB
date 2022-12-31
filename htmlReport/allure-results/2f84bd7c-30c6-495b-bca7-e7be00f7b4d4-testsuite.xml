@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672440420571' stop='1672440427471'>
+    <name>Verify_that_user_able_to_login_with_valid_credentials</name>
+    <title>Verify_that_user_able_to_login_with_valid_credentials</title>
+    <test-cases>
+        <test-case start='1672440420571' status='passed' stop='1672440425017'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_1: with valid username and password</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_1: with valid username and password</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='testId' value='TC-001Verify_that_user_able_to_login_with_valid_credentials_1: with valid username and password'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+                <parameter kind='environment-variable' name='BROWSER' value='chrome'/>
+                <parameter kind='environment-variable' name='BROWSER_VERSION' value='undefined'/>
+                <parameter kind='environment-variable' name='PLATFORM' value='undefined'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <description type='text'>generating Allure reportsVerify_that_user_able_to_login_with_valid_credentials_1: with valid username and password</description>
+        </test-case>
+        <test-case start='1672440425018' status='passed' stop='1672440425952'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='testId' value='TC-001Verify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+                <parameter kind='environment-variable' name='BROWSER' value='chrome'/>
+                <parameter kind='environment-variable' name='BROWSER_VERSION' value='undefined'/>
+                <parameter kind='environment-variable' name='PLATFORM' value='undefined'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <description type='text'>generating Allure reportsVerify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password</description>
+        </test-case>
+        <test-case start='1672440425952' status='passed' stop='1672440426629'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='testId' value='TC-001Verify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+                <parameter kind='environment-variable' name='BROWSER' value='chrome'/>
+                <parameter kind='environment-variable' name='BROWSER_VERSION' value='undefined'/>
+                <parameter kind='environment-variable' name='PLATFORM' value='undefined'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <description type='text'>generating Allure reportsVerify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass</description>
+        </test-case>
+        <test-case start='1672440426629' status='passed' stop='1672440427470'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='testId' value='TC-001Verify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+                <parameter kind='environment-variable' name='BROWSER' value='chrome'/>
+                <parameter kind='environment-variable' name='BROWSER_VERSION' value='undefined'/>
+                <parameter kind='environment-variable' name='PLATFORM' value='undefined'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <description type='text'>generating Allure reportsVerify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass</description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

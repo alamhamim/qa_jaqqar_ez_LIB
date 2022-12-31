@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672440459064' stop='1672440466473'>
+    <name>Verify_that_user_able_to_login_with_valid_credentials</name>
+    <title>Verify_that_user_able_to_login_with_valid_credentials</title>
+    <test-cases>
+        <test-case start='1672440459064' status='passed' stop='1672440463813'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_1: with valid username and password</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_1: with valid username and password</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1672440463813' status='passed' stop='1672440464743'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_2: with invalid username and password</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1672440464745' status='passed' stop='1672440465587'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_3: verify login with invalid username and valid pass</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1672440465587' status='passed' stop='1672440466472'>
+            <name>Verify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass</name>
+            <title>Verify_that_user_able_to_login_with_valid_credentials_4: verify login with both valid and ivanlid pass</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.125'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
